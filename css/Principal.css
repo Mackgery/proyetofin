@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: black;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.navbar{
+    height: 100px;
+}
+
+.primera{
+    float: right;
+    margin-left: 50px;
+    width: 90px;
+    height: 90px;
+}
+
+.segunda{
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.titulo{
+    float: left;
+    margin-right: 4%;
+}
+
+p{
+    margin-top: 3%;
+    margin-left: 3%;
+    font-size: 3em;
+    color: transparent;
+    font-weight: normal;
+    background: -webkit-linear-gradient(red 10%, yellow , red 79%);
+    -webkit-background-clip: text;
+}
+
+.btn{
+    font-size: 6em;
+}
+
+.Manga{
+    position: absolute;
+    top: 25%;
+    right: 5%;
+}
+
+.Anime{
+    position: absolute;
+    top: 60%;
+    right: 5%;
+}
